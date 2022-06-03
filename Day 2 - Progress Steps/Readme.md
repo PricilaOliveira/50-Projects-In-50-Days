@@ -10,8 +10,8 @@ ex
 <div align="center">
 --
 
-![Responsive](make a gif pls)
-
+<!-- ![Responsive](make a gif pls) -->
+Testando uma parada aqui
 
 </div>
 

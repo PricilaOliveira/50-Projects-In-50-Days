@@ -1,10 +1,10 @@
 <h1 align="center">
-🎮 Expansive Card League of Legends 🎮
+🎮 Expanding Cards 🎮
 </h1>
 
 <h3>
 Pequeno projeto de estudo utilizando HTML, CSS e JS.
-Apresento a vocês 5 campeões do jogo League of Legends.
+5 campeões do jogo League of Legends em cards.
 </h3>
 
 
