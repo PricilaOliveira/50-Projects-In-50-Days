@@ -4,7 +4,7 @@ I've created 50 small projects by following this [udemy course](https://www.udem
 ## Overview
 | Day | Project | Demo |
 | :---: | :--- | :---: |
-| 1 | Expanding Cards ✨ | [TWEET](https://twitter.com/Prixliveirx/status/) |
+| 1 | Expanding Cards ✨ | [TWEET](https://twitter.com/Prixliveirx/status/1532733310769606657) |
 <!-- | 2 | Progress Steps  | [TWEET](https://twitter.com/Prixliveirx/status/) |
 | 3 | Rotating Navigation | [TWEET](https://twitter.com/Prixliveirx/status/) |
 | 4 | Hidden Search Widget  | [TWEET](https://twitter.com/Prixliveirx/status/) |
