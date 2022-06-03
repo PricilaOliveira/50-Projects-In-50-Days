@@ -6,7 +6,7 @@
 
 |  #  | Project                                                                                                                   | Live Demo                                                                                          |
 | :-: | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/dinomoon/50projects50days/tree/master/01.%20Expanding%20Cards)                       | [Live Demo](https://dinomoon.github.io/50projects50days/01.%20Expanding%20Cards/index.html)        |
+| 01  | [Expanding Cards](https://github.com/pricilaoliveira/50projects50days/tree/master/Day%201%20-%20Expanding%20Cards/index.html)    | [Live Demo](https://dinomoon.github.io/50projects50days/01.%20Expanding%20Cards/index.html)        |
 | 02  | [Progress Steps](https://github.com/dinomoon/50projects50days/tree/master/02.%20Progress%20Steps)                         | [Live Demo](https://dinomoon.github.io/50projects50days/02.%20Progress%20Steps/index.html)         |
 | 03  | [Rotating Navigation Animation](https://github.com/dinomoon/50projects50days/tree/master/03.%20Rotating%20Navigation)     | [Live Demo](https://dinomoon.github.io/50projects50days/03.%20Rotating%20Navigation/index.html)    |
 | 04  | [Hidden Search Widget](https://github.com/dinomoon/50projects50days/tree/master/04.%20Hidden%20Search%20Widjet)           | [Live Demo](https://dinomoon.github.io/50projects50days/04.%20Hidden%20Search%20Widjet/index.html) |
